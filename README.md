@@ -6,14 +6,14 @@ Submitted by: **Lasya Malladi**
 
 **Wordle** is an android app that recreates a simple version of the popular word game [Wordle](https://www.nytimes.com/games/wordle/index.html). 
 
-Time spent: **5** hours spent in total
+Time spent: **X** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
 - [X] **User has 3 chances to guess a random 4 letter word**
-- [ ] **After 3 guesses, user should no longer be able to submit another guess**
+- [X] **After 3 guesses, user should no longer be able to submit another guess**
 - [X] **After each guess, user sees the "correctness" of the guess**
 - [X] **After all guesses are taken, user can see the target word displayed**
 
@@ -30,31 +30,30 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-## Video Walkthrough![WordleGIF](https://user-images.githubusercontent.com/40951986/221784462-3858f37a-ea2d-4b97-b7f8-88c21bcfcfb2.gif)
-
+## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='C:\Users\mslas\OneDrive\Desktop\WordleGIF.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='"https://submissions.us-east-1.linodeobjects.com/and102/QeCPa5Tu.gif"' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-Screen to GIF tool.
+
+GIF created with ScreenToGIF tool.
+
+
+![WordleGIF_Updated](https://user-images.githubusercontent.com/40951986/221955027-5def0289-c37a-4d05-bcb2-c90b0f62767a.gif)
 
 ## Notes
 
 Describe any challenges encountered while building the app.
 
-It was first time working with Android Studio and Kotlin.Main challenges were getting used to the IDE and Kotlin syntax.Being a Python developer,I had difficult time in getting used to Kotlin.
-
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [yyyy] [name of copyright owner]![WordleGIF_Updated](https://user-images.githubusercontent.com/40951986/221954965-51922053-f8b1-441d-a3eb-d706db40b3f3.gif)
+
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
-    You may obtain a cop![WordleGIF](https://user-images.githubusercontent.com/40951986/221783349-c7c3f715-ab95-42b2-a868-6560d95bdb71.gif)
-y of the License at
+    You may obtain a copy of the License at
 
         http://www.apache.org/licenses/LICENSE-2.0
 
